@@ -1,15 +1,15 @@
-<div align="center">
-  <img alt="Logo" src="" width="100" />
-</div>
 <h1 align="center">
-  brittanychiang.com - v2
+  nurulhassan - v2
 </h1>
 <p align="center">
-  The Second iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The Second iteration of <a href="https://nurulhassan.tech/" target="_blank">nurulhassan</a> built with HTML5, CSS3, Javascript and Bootstrap.
 </p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/nurulhassan/v1" target="_blank">v1</a>,
-  <a href="https://github.com/nurulhassan/v2" target="_blank">v2</a>,
-  <a href="https://github.com/nurulhassan/v3" target="_blank">v3</a>
-</p>
+<div align="center" >
+<img src="v2.PNG" width="100%" />
+</div>
+
+## 🚨 Forking this repo (please read!)
+
+Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+
+I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
